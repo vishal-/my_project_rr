@@ -1,0 +1,25 @@
+{
+  "name": "my_project_rr",
+  "version": "0.0.1",
+  "description": "demo project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-/my_project_rr.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "MySQL",
+    "Sequelize",
+    "ExpressJS"
+  ],
+  "author": "Vishal Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal-/my_project_rr/issues"
+  },
+  "homepage": "https://github.com/vishal-/my_project_rr#readme"
+}
