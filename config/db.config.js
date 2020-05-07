@@ -4,3 +4,5 @@ const db_config = {
   username: "dev",
   password: "dev1234",
 };
+
+export default db_config;
